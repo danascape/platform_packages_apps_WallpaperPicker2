@@ -174,7 +174,7 @@
 
     <!-- Whenever updating this file, ensure that
          bottom_actions_plus_separated_tabs == bottom_actions_height + separated_tabs_height -->
-    <dimen name="bottom_actions_plus_separated_tabs">144dp</dimen>
+    <dimen name="bottom_actions_plus_separated_tabs">124dp</dimen>
 
     <dimen name="bottom_sheet_margin">24dp</dimen>
     <dimen name="wallpaper_info_pane_padding">24dp</dimen>
@@ -193,9 +193,9 @@
 
 
     <!-- Dimensions for the separated tabs. -->
-    <dimen name="separated_tabs_height">56dp</dimen>
+    <dimen name="separated_tabs_height">40dp</dimen>
     <dimen name="separated_tabs_height_short">32dp</dimen>
-    <dimen name="separated_tabs_corner_radius">12dp</dimen>
+    <dimen name="separated_tabs_corner_radius">20dp</dimen>
     <dimen name="separated_tabs_inset_horizontal">4dp</dimen>
     <!--  Default page horizontal margin (24dp) - separated tabs inset horizontal (4dp) -->
     <dimen name="separated_tabs_horizontal_padding">20dp</dimen>
